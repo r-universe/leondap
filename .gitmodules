@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "recluster"]
 	path = recluster
 	url = https://github.com/leondap/recluster
-	shallow = true
-	registered = true
